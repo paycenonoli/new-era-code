@@ -5,3 +5,5 @@ November
 Getting from staging to working area
 Git branching strategy
 Git merging strategy
+Git merging conflict resolved
+We now have to merge
