@@ -4,3 +4,4 @@ This is new-era code
 November
 Getting from staging to working area
 Git branching strategy
+Git merging strategy
